@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 img {
@@ -29,7 +29,7 @@ a {
   color: #793284;
   text-decoration: none;
   font-family: "Patua One", cursive;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 ol {

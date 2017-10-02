@@ -11,13 +11,13 @@ h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 p {
   text-align: center;
   font-style: italic;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 .intro {
@@ -27,9 +27,12 @@ p {
 a {
   color: #793284;
   text-decoration: none;
-  list-style-type: none;
   font-family: "Patua One", cursive;
-  font-size: 1rem;
+  font-size: 1.5rem;
+}
+
+ol {
+  list-style-type: none;
 }
 
 a:hover {

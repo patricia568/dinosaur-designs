@@ -12,5 +12,11 @@ h1, h2, h3{
 p{
   text-align: center;
   font-style: italic;
-  font-size: 1rem;
+  font-size: 1.5rem;
+}
+nav{
+  color: #793284;
+}
+nav:hover{
+  color: #b42885;
 }

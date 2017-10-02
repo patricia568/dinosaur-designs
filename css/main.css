@@ -8,22 +8,21 @@ img{
 h1, h2, h3{
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', serif;
 }
-
 p{
   text-align: center;
   font-style: italic;
   font-size: 1rem;
 }
-p class="intro"{
+.intro{
   font-size: 1.5rem;
 }
 a{
   color: #793284;
   text-decoration: none;
   list-style-type: none;
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', serif;
 }
 a:hover{
   color: #b42885;

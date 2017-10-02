@@ -8,7 +8,7 @@ img{
 h2{
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One',inherit;
+  font-family: 'Patua One', cursive;
   font-size: 3rem;
 }
 p{
@@ -23,7 +23,7 @@ a{
   color: #793284;
   text-decoration: none;
   list-style-type: none;
-  font-family: 'Patua One',inherit;
+  font-family: 'Patua One', cursive;
   font-size: 2rem;
 }
 a:hover{

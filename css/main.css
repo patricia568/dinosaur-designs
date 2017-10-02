@@ -32,10 +32,6 @@ a {
   font-size: 1.5rem;
 }
 
-ol {
-  list-style-type: none;
-}
-
 a:hover {
   color: #b42885;
 }

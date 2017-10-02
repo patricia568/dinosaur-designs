@@ -2,3 +2,14 @@ html{
   background-color: #f2f1ed;
   font-family: Georgia, serif;
 }
+img{
+  width: 100%;
+}
+h1, h2, h3{
+  color: #5d8432;
+}
+p{
+  text-align: center;
+  text-style: italic;
+  font-size: 2rem;
+}

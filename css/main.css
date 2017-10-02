@@ -8,7 +8,8 @@ img{
 h2{
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One';
+  font-family: 'Patua One',inherit;
+  font-size: 3rem;
 }
 p{
   text-align: center;
@@ -16,13 +17,14 @@ p{
   font-size: 1rem;
 }
 .intro{
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 a{
   color: #793284;
   text-decoration: none;
   list-style-type: none;
-  font-family: 'Patua One';
+  font-family: 'Patua One',inherit;
+  font-size: 2rem;
 }
 a:hover{
   color: #b42885;

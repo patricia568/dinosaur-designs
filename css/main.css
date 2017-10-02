@@ -17,6 +17,7 @@ p{
 a{
   color: #793284;
   text-decoration: none;
+  list-style-type: none;
 }
 a:hover{
   color: #b42885;

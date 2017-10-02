@@ -8,7 +8,7 @@ img{
 h1, h2, h3{
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', serif;
+  font-family: 'Patua One';
 }
 p{
   text-align: center;
@@ -22,7 +22,7 @@ a{
   color: #793284;
   text-decoration: none;
   list-style-type: none;
-  font-family: 'Patua One', serif;
+  font-family: 'Patua One';
 }
 a:hover{
   color: #b42885;

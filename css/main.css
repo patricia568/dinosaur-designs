@@ -7,9 +7,10 @@ img{
 }
 h1, h2, h3{
   color: #5d8432;
+  text-transformation: uppercase;
 }
 p{
   text-align: center;
-  text-style: italic;
+  font-style: italic;
   font-size: 2rem;
 }

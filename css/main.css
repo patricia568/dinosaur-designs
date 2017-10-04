@@ -36,6 +36,6 @@ ol {
   list-style-type: none;
 }
 
-nav ol li:hover {
+a:hover {
   color: #b42885;
 }

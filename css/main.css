@@ -25,7 +25,7 @@ p {
 
 .intro {
   font-size: .98rem;
-  margin-top: 1px;
+  margin-top: 4px;
 }
 
 a {
@@ -44,12 +44,12 @@ a:hover {
   color: #b42885;
 }
 
-h1 {
+.logoimage {
   display: block;
   margin: 30px 15px;
 }
 
 .two, .three {
-  margin-top: 1px;
+  margin-top: 4px;
   padding: 0;
 }

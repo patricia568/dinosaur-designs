@@ -6,6 +6,7 @@ html {
 
 img {
   width: 100%;
+  border-collapse: collapse;
 }
 
 h2 {

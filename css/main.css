@@ -25,6 +25,8 @@ p {
 
 .intro {
   font-size: 1rem;
+  margin: 3px;
+  padding: 3px;
 }
 
 a {
@@ -51,9 +53,4 @@ h1 {
 .two, .three {
   margin: 0;
   padding: 0;
-}
-
-.intro {
-  margin: 1px;
-  padding: 1px;
 }

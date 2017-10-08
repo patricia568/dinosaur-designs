@@ -4,7 +4,7 @@ html {
   line-height: 1.5;
 }
 
-img {
+img:not(.logoimage) {
   width: 100%;
   border-collapse: collapse;
   display: block;

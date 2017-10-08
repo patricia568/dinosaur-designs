@@ -4,7 +4,7 @@ html {
   line-height: 1.5;
 }
 
-img:not(.logoimage) {
+img {
   width: 100%;
   border-collapse: collapse;
   display: block;
@@ -32,7 +32,7 @@ a {
   text-decoration: none;
   font-family: "Patua One", cursive;
   font-size: 1.2rem;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 ol {
@@ -41,4 +41,9 @@ ol {
 
 a:hover {
   color: #b42885;
+}
+
+.logoimage {
+  border-collapse: separate;
+  display: none;
 }

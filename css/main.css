@@ -6,7 +6,6 @@ html {
 
 img {
   width: 100%;
-  border-collapse: collapse;
 }
 
 h2 {
@@ -20,7 +19,6 @@ p {
   text-align: center;
   font-style: italic;
   font-size: .8rem;
-  line-height: 1.5;
 }
 
 .intro {

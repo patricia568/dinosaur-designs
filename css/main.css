@@ -47,7 +47,13 @@ h1 {
   display: block;
   margin: 30px 15px;
 }
+
 .two, .three {
   margin: 0;
   padding: 0;
+}
+
+.intro {
+  margin: 1;
+  padding: 1;
 }

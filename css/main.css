@@ -44,6 +44,10 @@ a:hover {
   color: #b42885;
 }
 
+.logoimage {
+  margin-bottom: 10px
+}
+
 .two, .three {
   margin-top: 4px;
   padding: 0;

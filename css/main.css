@@ -21,6 +21,8 @@ p {
   text-align: center;
   font-style: italic;
   font-size: .8rem;
+  margin: 0px;
+  padding: 0px;
 }
 
 .intro {
@@ -46,9 +48,4 @@ a:hover {
 h1 {
   display: block;
   margin: 30px 15px;
-}
-
-.two, .three {
-  border-collapse: collapse;
-  display: block;
 }

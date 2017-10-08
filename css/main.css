@@ -47,3 +47,8 @@ h1 {
   display: block;
   margin: 30px 15px;
 }
+
+.two, .three {
+  border-collapse: collapse;
+  display: block;
+}

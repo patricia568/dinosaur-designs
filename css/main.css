@@ -43,7 +43,6 @@ a:hover {
   color: #b42885;
 }
 
-.logoimage {
-  border-collapse: separate;
-  display: none;
+h1 {
+  display: inline-block;
 }
